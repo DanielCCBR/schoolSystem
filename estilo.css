@@ -1,0 +1,98 @@
+.tudo {
+    background-color: #6c7a89;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.login {
+    background-color: #ffffff; 
+    height: auto;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container2 {
+    height: 100vh;
+    width: 100vw;
+}
+
+body {
+    background-color: #6c7a89;
+}
+
+.conteudo1 {
+    background: linear-gradient(to bottom, #669900 0%, #6e6e6e 100%);
+    height: auto;
+    width: auto;
+    margin: 2%;
+    padding: 0;
+}
+
+.conteudo2 {
+    background: linear-gradient(to bottom, #00cc66 0%, #00ffcc 100%);
+    height: auto;
+    width: auto;
+    margin: 2%;
+    padding: 0;
+}
+
+.conteudo3 {
+    background: linear-gradient(to bottom, #a87118 0%, #fce9ca 100%);
+    height: auto;
+    width: auto;
+    margin: 2%;
+    padding: 0;
+}
+
+.conteudo4 {
+    background: linear-gradient(to bottom, #691511 0%, #858585 100%);
+    height: auto;
+    width: auto;
+    margin: 2%;
+    padding: 0;
+}
+
+.conteudo5 {
+    background: linear-gradient(to bottom, #336699 0%, #e4d8ed 100%);
+    height: auto;
+    width: auto;
+    margin: 2%;
+    padding: 0;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+    margin: 2%;
+}
+
+h4, h1 {
+    color: #ffffff;
+}
+
+h4 {
+    background-color: black;
+}
+
+.texto {
+    padding: 1.5%;
+}
+
+.lista {
+    background-color: #ffffff;
+}
+
+.container {
+    position: relative;
+    top: 20px;
+    padding: 20px;
+}
+
+.coluna {
+    padding-bottom: 20px;
+}
